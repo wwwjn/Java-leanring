@@ -123,8 +123,8 @@ Eclipse中的快捷键：
 
 
 
-- 四、 1. 如果我们没有显式的声明一个类的父类的话，则此类继承于java.lang.Object类
+- 如果我们没有显式的声明一个类的父类的话，则此类继承于**java.lang.Object类**
 
-  所有的java类（除java.lang.Object类之外）都直接或间接的继承于java.lang.Object类
+所有的java类（除java.lang.Object类之外）都直接或间接的继承于java.lang.Object类
 
-  意味着，所有的java类具有java.lang.Object类声明的功能。
+意味着，所有的java类具有java.lang.Object类声明的功能。
